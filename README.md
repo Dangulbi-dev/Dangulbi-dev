@@ -2,7 +2,7 @@
 - 👀 I’m interested in becoming a Data Scientist
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on AI, Machine Learning & Data Science
-- 📫 How to reach me: dangulbi2luv@yahoo.co.uk
+- 📫 How to reach me: dangulbi2luv@gmail.com
 
 <!---
 Dangulbi-dev/Dangulbi-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
